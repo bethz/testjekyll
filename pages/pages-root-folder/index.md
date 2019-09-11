@@ -8,17 +8,18 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "Blog & Portfolio"
+  title: "Info & Blogs "
   url: 'http://bethz.github.io/testjekyll/blog/'
   image: widget-1-302x182.jpg
-  text: 'This is a temp repo to put content. Content will be moved to permanent url when available.'
+  text: 'This is a temp repo to put content. Content will be moved to permanent url when available.
+  Interested in learning more about Responsible AI? Check out this <a href="https://learn.microsoft.com/activity/S3332473/launch/#/">interesting course</a>. '
 widget2:
-  title: "Why use this theme?"
-  url: 'http://phlow.github.io/testjekyll/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
+  title: " Github Repo"
+  url: 'http://github.com/microsoft/fairlearn'
+  text: 'Over the past decade, machine learning systems have begun to play a key role in many high-stakes decisions. Who is interviewed for a job? Who is approved for a bank loan? Work on these challenges (cite Miro et al paper here) has resulted in a tool to help turn any common classifier into a "fair" one.'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
-  title: "Download Theme"
+  title: "Github Repos"
   url: 'https://github.com/Phlow/feeling-responsive'
   image: widget-github-303x182.jpg
   text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
