@@ -8,15 +8,15 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "Info & Blogs "
+  title: "ResponsibleAI Info & Blogs "
   url: 'http://bethz.github.io/testjekyll/blog/'
   image: widget-1-302x182.jpg
   text: 'This is a temp repo to start to organize content. Content will be moved to a permanent url when available.<br>
   Interested in learning more about Responsible AI? Check out this <a href="https://learn.microsoft.com/activity/S3332473/launch/#/">interesting course</a>. '
 widget2:
-  title: " Fairlearn Github Repo has a systematic approach for achieving fairness in a binary classification"
+  title: " <a href="http://github.com/microsoft/fairlearn>Fairlearn Github Repo</a>"
   url: 'http://github.com/microsoft/fairlearn'
-  text: 'Over the past decade, machine learning systems have begun to play a key role in many high-stakes decisions. <br>Who is interviewed for a job? <br>Who is approved for a bank loan? <br>Work on these challenges has resulted in a <a href=https://www.microsoft.com/en-us/research/blog/machine-learning-for-fair-decisions/>method </a> which uses a reduction technique to turn any common classifier into a "fair" one. <a href=github.com/microsoft/fairlearn>Try it out</a>.'
+  text: 'Over the past decade, machine learning systems have begun to play a key role in many high-stakes decisions. <br>Who is interviewed for a job? <br>Who is approved for a bank loan? <br>Work on these challenges has resulted in a <a href=https://www.microsoft.com/en-us/research/blog/machine-learning-for-fair-decisions/>method </a> which uses a reduction technique to turn any common classifier into a "fair" one.  It uses a systematic approach for achieving fairness in a binary classification. Examples are included. <a href=github.com/microsoft/fairlearn>Try it out</a>.'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Github Repos"
