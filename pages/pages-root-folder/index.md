@@ -16,7 +16,7 @@ widget1:
 widget2:
   title: " Github Repo"
   url: 'http://github.com/microsoft/fairlearn'
-  text: 'Over the past decade, machine learning systems have begun to play a key role in many high-stakes decisions. Who is interviewed for a job? Who is approved for a bank loan? Work on these challenges (cite Miro et al paper here) has resulted in a tool to help turn any common classifier into a "fair" one.'
+  text: 'Over the past decade, machine learning systems have begun to play a key role in many high-stakes decisions. <br>Who is interviewed for a job? <br>Who is approved for a bank loan? <br>Work on these challenges (cite Miro et al paper here) has resulted in a method using a reduction technique to help turn any common classifier into a "fair" one. <a href=github.com/microsoft/fairlearn>Try it out</a>.'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Github Repos"
